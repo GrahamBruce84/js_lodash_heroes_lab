@@ -1,0 +1,17 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "food.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
